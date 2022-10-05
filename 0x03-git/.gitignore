@@ -1,0 +1,17 @@
+index.html
+core.excludesFile
+- # - marque la ligne comme un commentaire
+
+- * - correspond à 0 caractères ou plus
+
+-? - correspond à 1 caractère
+
+- [abc] - correspond à a, b, ou c
+
+- ** - correspond aux répertoires imbriqués - a / ** / z correspond
+
+--- a / z
+
+--- a / b / z
+
+--- a / b / c / z
